@@ -15,13 +15,9 @@ Sou desenvolvedora front-end apaixonada por tecnologia e criação de interfaces
 - TypeScript  
 - React Native  
 
-### ❤️ Objetivos
-- Evoluir constantemente como desenvolvedora  
-- Criar projetos práticos e bem estruturados  
-- Aprender novas tecnologias do ecossistema front-end  
+
 
 ### 📫 Como me encontrar
 - Likedin: [www.linkedin.com/in/joice-alves-dev0101)
 
----
-✨ *Sempre aprendendo e construindo na web.*
+
