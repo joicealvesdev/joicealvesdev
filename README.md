@@ -11,7 +11,7 @@ About me:
 I'm a front-end developer passionate about technology and creating web interfaces. I enjoy transforming ideas into simple, functional, and responsive visual experiences.
 
 ### 🤖 Technologies I use:
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e0934b1e-6ec6-49f0-ba86-40aa08f045b8" />
+<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/e0934b1e-6ec6-49f0-ba86-40aa08f045b8" />
 
 
 
