@@ -18,8 +18,8 @@ I'm a front-end developer passionate about technology and creating web interface
 
 
 ### 📚 Technologies I'm learning / want to learn:
-- TypeScript
-- React Native
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e1b443ca-badd-4da0-a1cf-78250e885957" />
+
 
 ### 📫 How to find me:
 - LinkedIn: [www.linkedin.com/in/joice-alves-dev0101]
