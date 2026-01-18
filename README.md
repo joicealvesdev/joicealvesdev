@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Joice 👋
 
-<!--
-**joicealvesdev/joicealvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedora Front-End
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedora front-end apaixonada por tecnologia e criação de interfaces web. Gosto de transformar ideias em experiências visuais simples, funcionais e responsivas.
+
+### 🤖 Tecnologias que utilizo
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 📚 Tecnologias que estou aprendendo / quero aprender
+- TypeScript  
+- React Native  
+
+### ❤️ Objetivos
+- Evoluir constantemente como desenvolvedora  
+- Criar projetos práticos e bem estruturados  
+- Aprender novas tecnologias do ecossistema front-end  
+
+### 📫 Como me encontrar
+- Likedin: [www.linkedin.com/in/joice-alves-dev0101)
+
+---
+✨ *Sempre aprendendo e construindo na web.*
