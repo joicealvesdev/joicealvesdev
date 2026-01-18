@@ -20,7 +20,7 @@ I'm a front-end developer passionate about technology and creating web interface
 
 ### 📚 Technologies I'm learning / want to learn:
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e1b443ca-badd-4da0-a1cf-78250e885957" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1a5b8c83-30bf-42bd-bd8c-c60ad7151e6f" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1a5b8c83-30bf-42bd-bd8c-c60ad7151e6f" />
 
 
 ### 📫 How to find me:
