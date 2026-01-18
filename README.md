@@ -4,24 +4,21 @@
 
 ## Hi, I'm Joice 👋
 
-### 💻 Desenvolvedora Front-End
+### 💻 Front-End Developer
 
-Sobre mim:
+About me:
 
-Sou desenvolvedora front-end apaixonada por tecnologia e criação de interfaces web. Gosto de transformar ideias em experiências visuais simples, funcionais e responsivas.
+I'm a front-end developer passionate about technology and creating web interfaces. I enjoy transforming ideas into simple, functional, and responsive visual experiences.
 
-### 🤖 Tecnologias que utilizo
-- HTML5  
-- CSS3  
-- JavaScript  
+### 🤖 Technologies I use:
+- HTML5
+- CSS3
+- JavaScript
 
-### 📚 Tecnologias que estou aprendendo / quero aprender
-- TypeScript  
-- React Native  
+### 📚 Technologies I'm learning / want to learn:
+- TypeScript
+- React Native
 
-
-
-### 📫 Como me encontrar
-- Likedin: [www.linkedin.com/in/joice-alves-dev0101)
-
+### 📫 How to find me:
+- LinkedIn: [www.linkedin.com/in/joice-alves-dev0101]
 
