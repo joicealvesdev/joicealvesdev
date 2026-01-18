@@ -12,7 +12,9 @@ I'm a front-end developer passionate about technology and creating web interface
 
 ### 🤖 Technologies I use:
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/48364c67-a937-42a9-8ed8-a84d148289a9" />
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee687cd1-c48a-4cec-922b-4d6e4b9faa42" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee687cd1-c48a-4cec-922b-4d6e4b9faa42" 
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b0e7a137-938b-455a-a40a-f38ea76eda99" />
+
 
 
 ### 📚 Technologies I'm learning / want to learn:
