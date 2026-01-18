@@ -1,3 +1,7 @@
+<img width="1291" height="322" alt="image" src="https://github.com/user-attachments/assets/0cff135f-91e0-4e10-b6f0-3b8efc09b703" />
+
+
+
 ## Hi, I'm Joice 👋
 
 ### 💻 Desenvolvedora Front-End
