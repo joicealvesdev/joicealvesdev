@@ -14,6 +14,8 @@ I'm a front-end developer passionate about technology and creating web interface
 
 ### 🤖 Technologies I use:
 <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/e0934b1e-6ec6-49f0-ba86-40aa08f045b8" />
+<img width="1227" height="430" alt="{E375F658-E8F5-4DE2-A883-DFF8D832D0F5}" src="https://github.com/user-attachments/assets/72c0089e-fb23-41f9-a120-1ec9923ef2aa" />
+
 
 
 
