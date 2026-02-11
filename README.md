@@ -13,7 +13,7 @@ About me:
 I'm a front-end developer passionate about technology and creating web interfaces. I enjoy transforming ideas into simple, functional, and responsive visual experiences.
 
 ### 🤖 Technologies I use:
-![HTML JS CSS Logos Icons PNG](https://github.com/user-attachments/assets/1b80274c-b769-429f-882f-573f14cd7ad5)
+
 
 
 
