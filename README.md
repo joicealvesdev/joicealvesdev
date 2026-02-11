@@ -24,7 +24,7 @@ I'm a front-end developer passionate about technology and creating web interface
 
 
 ### 📚 Technologies I'm learning / want to learn:
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/6e861427-6611-4127-a276-ffad93e4e5c8" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 
 
