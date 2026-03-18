@@ -24,15 +24,6 @@ I enjoy transforming ideas into functional, responsive visual experiences.
 
 ---
 
-## 📊 GitHub Stats
-![Joice's GitHub stats](https://github-readme-stats.vercel.app/api?username=joicealvesdev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joicealvesdev&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joicealvesdev&theme=github)
 
 ---
 
@@ -42,7 +33,4 @@ I enjoy transforming ideas into functional, responsive visual experiences.
 
 ---
 
-## 🎉 Fun touch
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joicealvesdev)
