@@ -1,7 +1,8 @@
-<img src="assets/544741b0-0d20-48b6-b9bc-00bb97be7b50" alt="GIF animado" width="400" />
+<img src="https://github.com/user-attachments/assets/693d8238-3266-471b-b054-973bc2220358" alt="GIF animado" width="400" />
 
 
-    
+
+
 
 
 ## Hi, I'm Joice 👋
