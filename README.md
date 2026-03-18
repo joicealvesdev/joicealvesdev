@@ -27,7 +27,7 @@ I'm a front-end developer passionate about technology and creating web interface
 
 ### 📚 Technologies I'm learning / want to learn:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<i class="devicon-angularjs-plain colored"></i>
+<VueIcon name="de:angular-original" />
 
 
 
