@@ -1,6 +1,4 @@
-
-
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/544741b0-0d20-48b6-b9bc-00bb97be7b50)
+<img src="assets/544741b0-0d20-48b6-b9bc-00bb97be7b50" alt="GIF animado" width="400" />
 
 
     
