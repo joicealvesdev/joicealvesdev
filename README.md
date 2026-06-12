@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Joice+;Front-End+Developer)](https://git.io/typing-svg)
 
+<img width="967" height="284" alt="{0CCF3AFE-CA11-4C6B-9B3D-E2CF9D2E8897}" src="https://github.com/user-attachments/assets/561c6baa-6f53-48a4-8506-a4dcb6b59984" />
 
 
 
