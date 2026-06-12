@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Contribuições](https://img.shields.io/badge/Contribuições-Bem%20vindas-brightgreen)
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Joice+;Front-End+Developer)](https://git.io/typing-svg)
 
