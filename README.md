@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Joice+;Front-End+Developer)](https://git.io/typing-svg)
+<img width="1536" height="1024" alt="Copilot_20260121_133513" src="https://github.com/user-attachments/assets/12cc9e62-4338-433f-85f3-d1ec807fa8a3" />
 
 
 
