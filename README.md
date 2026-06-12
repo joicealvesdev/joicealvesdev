@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <img src="https://github.com/user-attachments/assets/693d8238-3266-471b-b054-973bc2220358" alt="GIF animado" width="400" />
 
 # Hi, I'm Joice 👋
