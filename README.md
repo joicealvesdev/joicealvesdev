@@ -31,7 +31,6 @@ I enjoy transforming ideas into functional, responsive visual experiences.
 ---
 
 ## 🧠 Currently learning
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
