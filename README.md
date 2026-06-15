@@ -1,19 +1,19 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+sou+Joice+👋;Desenvolvedora+Front-End+🎨;Apaixonada+por+tecnologia+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
 <img width="967" height="284" alt="Banner Joice" src="https://github.com/user-attachments/assets/561c6baa-6f53-48a4-8506-a4dcb6b59984" />
 
 ---
 
-## 🌟 Sobre mim
+## 🌟 About Me
 
-Sou uma **desenvolvedora front-end** apaixonada por tecnologia e transformar ideias criativas em experiências visuais funcionais e responsivas. Adoro desafios, estou sempre aprendendo coisas novas e amo compartilhar conhecimento! 🚀
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and I love sharing knowledge! 🚀
 
-Aqui você encontra alguns dos meus projetos e estudos. Sinta-se à vontade para explorar! 💫
+Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 ---
 
-## 🛠️ Tecnologias que eu uso
+## 🛠️ Technologies I Use
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Aqui você encontra alguns dos meus projetos e estudos. Sinta-se à vontade para
 
 ---
 
-## 🧠 Estou aprendendo agora
+## 🧠 Currently Learning
 
 <div align="center">
 
@@ -40,18 +40,18 @@ Aqui você encontra alguns dos meus projetos e estudos. Sinta-se à vontade para
 
 ---
 
-## 📂 Alguns dos meus projetos
+## 📂 Some of My Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |---------|-----------|-------------|
-| 🔗 [DevLinks](https://github.com/joicealvesdev/devlinks-joice-alves) | Página personalizada de links | HTML, CSS |
-| 📱 [App Mobile React Native](https://github.com/joicealvesdev/app-mobile-react-native) | App para salvar e organizar links | React Native, TypeScript |
-| 🚲 [Project Bike](https://github.com/joicealvesdev/project-bike) | Customizador de bicicletas | CSS, Design Responsivo |
-| 👤 [User Registration](https://github.com/joicealvesdev/joice-user-registration) | Sistema de registro de usuários | HTML, CSS, JavaScript |
+| 🔗 [DevLinks](https://github.com/joicealvesdev/devlinks-joice-alves) | Personalized link page | HTML, CSS |
+| 📱 [App Mobile React Native](https://github.com/joicealvesdev/app-mobile-react-native) | App to save and organize links | React Native, TypeScript |
+| 🚲 [Project Bike](https://github.com/joicealvesdev/project-bike) | Bike customizer interface | CSS, Responsive Design |
+| 👤 [User Registration](https://github.com/joicealvesdev/joice-user-registration) | User registration system | HTML, CSS, JavaScript |
 
 ---
 
-## 💡 Estatísticas
+## 💡 Statistics
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Aqui você encontra alguns dos meus projetos e estudos. Sinta-se à vontade para
 
 ---
 
-## 📍 Me encontre por aqui
+## 📍 Find Me Here
 
 <div align="center">
 
@@ -77,8 +77,8 @@ Aqui você encontra alguns dos meus projetos e estudos. Sinta-se à vontade para
 
 <div align="center">
 
-### ✨ Obrigada por visitar meu perfil! 
+### ✨ Thank you for visiting my profile! 
 
-Feel free to connect comigo! 💬
+Feel free to connect with me! 💬
 
 </div>
