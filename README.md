@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and I love sharing knowledge! 🚀
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and I love sharing knowledge! ❤️
 
 Here you'll find some of my projects and studies. Feel free to explore! 💫
 
