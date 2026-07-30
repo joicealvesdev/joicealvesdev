@@ -1,4 +1,4 @@
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
 <img width="967" height="284" alt="Banner Joice" src="https://github.com/user-attachments/assets/561c6baa-6f53-48a4-8506-a4dcb6b59984" />
@@ -26,7 +26,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
