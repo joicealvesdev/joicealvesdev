@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and I love sharing knowledge! ❤️
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and [...]
 
 Here you'll find some of my projects and studies. Feel free to explore! 💫
 
@@ -25,6 +25,9 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
