@@ -1,4 +1,5 @@
- 
+  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
 
@@ -7,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. I love challenges, I'm always learning new things, and [...]
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development** at **Unopar**, where I'm expanding my knowledge in software development and IT practices. I love challenges, I'm always learning new things, and I'm committed to continuous growth in my career.
 
 Here you'll find some of my projects and studies. Feel free to explore! 💫
 
