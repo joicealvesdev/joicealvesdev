@@ -1,7 +1,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
-<img width="967" height="284" alt="Banner Joice" src="https://github.com/user-attachments/assets/561c6baa-6f53-48a4-8506-a4dcb6b59984" />
+
 
 ---
 
