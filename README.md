@@ -1,4 +1,4 @@
-  
+   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development** at **Unopar**, where I'm expanding my knowledge in software development and IT practices. I love challenges, I'm always learning new things, and I'm committed to continuous growth in my career.
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development**. 
 
 Here you'll find some of my projects and studies. Feel free to explore! 💫
 
@@ -30,6 +30,9 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
