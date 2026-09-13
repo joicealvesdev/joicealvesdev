@@ -46,16 +46,6 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 </div>
 
----
-
-## 📂 Some of My Projects
-
-| Project | Description | Technologies |
-|---------|-----------|-------------|
-| 🎨 [Portfolio](https://github.com/joicealvesdev/portfolio) | My professional portfolio showcasing my projects, skills, and experience as a front-end developer. Features dark/light mode toggle, responsive design, and modern UI | React, TypeScript, Vite, CSS, Lucide React |
-| 📱 [App Mobile React Native](https://github.com/joicealvesdev/app-mobile-react-native) | App to save and organize links | React Native, TypeScript |
-| 🚲 [Project Bike](https://github.com/joicealvesdev/project-bike) | Bike customizer interface | CSS, Responsive Design |
-| ✨ [Lumina](https://github.com/joicealvesdev/Lumina-) | Modern user registration interface with form validation and responsive design | React, TypeScript, Vite |
 
 ---
 
