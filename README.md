@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development**. 
+I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development**.
 
 Here you'll find some of my projects and studies. Feel free to explore! 💫
 
@@ -55,7 +55,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 | 🔗 [DevLinks](https://github.com/joicealvesdev/devlinks-joice-alves) | Personalized link page | HTML, CSS |
 | 📱 [App Mobile React Native](https://github.com/joicealvesdev/app-mobile-react-native) | App to save and organize links | React Native, TypeScript |
 | 🚲 [Project Bike](https://github.com/joicealvesdev/project-bike) | Bike customizer interface | CSS, Responsive Design |
-| 👤 [User Registration](https://github.com/joicealvesdev/joice-user-registration) | User registration system | HTML, CSS, JavaScript |
+| ✨ [Lumina](https://github.com/joicealvesdev/Lumina-) | Modern user registration interface with form validation and responsive design | React, TypeScript, Vite |
 
 ---
 
