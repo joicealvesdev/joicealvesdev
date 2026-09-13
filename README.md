@@ -1,4 +1,4 @@
-   
+    
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Joice+👋;Front-End+Developer+🎨;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
@@ -52,7 +52,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 | Project | Description | Technologies |
 |---------|-----------|-------------|
-| 🔗 [DevLinks](https://github.com/joicealvesdev/devlinks-joice-alves) | Personalized link page | HTML, CSS |
+| 🎨 [Portfolio](https://github.com/joicealvesdev/portfolio) | My professional portfolio showcasing my projects, skills, and experience as a front-end developer. Features dark/light mode toggle, responsive design, and modern UI | React, TypeScript, Vite, CSS, Lucide React |
 | 📱 [App Mobile React Native](https://github.com/joicealvesdev/app-mobile-react-native) | App to save and organize links | React Native, TypeScript |
 | 🚲 [Project Bike](https://github.com/joicealvesdev/project-bike) | Bike customizer interface | CSS, Responsive Design |
 | ✨ [Lumina](https://github.com/joicealvesdev/Lumina-) | Modern user registration interface with form validation and responsive design | React, TypeScript, Vite |
