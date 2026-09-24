@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 About Me
+## ❤️ About Me
 
 I'm a **front-end developer** passionate about technology and transforming creative ideas into functional and responsive visual experiences. Currently, I'm a student of **Systems Analysis and Development**.
 
@@ -38,7 +38,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 ---
 
-##  Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
