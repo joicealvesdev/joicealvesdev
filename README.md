@@ -14,7 +14,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 ---
 
-## 🛠️ Technologies I Use
+##  Technologies I Use
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Here you'll find some of my projects and studies. Feel free to explore! 💫
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
